@@ -1,0 +1,22 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.page-item {
+  margin: 0 5px;
+}
+
+.page-item .page-link {
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  color: #007bff;
+  cursor: pointer;
+}
+
+.page-item.active .page-link {
+  background-color: #007bff;
+  color: #fff;
+  border: 1px solid #007bff;
+}

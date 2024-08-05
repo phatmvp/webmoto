@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "id": "a597",
+      "questionText": "Phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại là gì?",
+      "options": [
+        "Phần mặt đường và lề đường.",
+        "Phần đường xe chạy.",
+        "Phần đường xe cơ giới.",
+        "Cả 3 đáp án trên "
+      ],
+      "correctAnswer": "Phần đường xe chạy."
+    },
+    {
+      "id": "f1c0",
+      "questionText": "“Làn đường” là gì?",
+      "options": [
+        "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, sử dụng cho xe chạy.",
+        "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn.",
+        "Là đường cho xe ô tô chạy, dừng, đỗ an toàn.",
+        "All"
+      ],
+      "correctAnswer": "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn."
+    },
+    {
+      "id": "357f",
+      "questionText": "Trong các khái niệm dưới đây, “dải phân cách” được hiểu như thế nào là đúng?",
+      "options": [
+        "Là bộ phận của đường để ngăn cách không cho các loại xe vào những nơi không được phép.",
+        "Là bộ phận của đường để phân tách phần đường xe chạy và hành lang an toàn giao thông.",
+        "Là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.",
+        "All"
+      ],
+      "correctAnswer": "Là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ."
+    },
+    {
+      "id": "275c",
+      "questionText": "“Dải phân cách” trên đường bộ gồm những loại nào?",
+      "options": [
+        "Dải phân cách gồm loại cố định và loại di động.",
+        "Dải phân cách gồm tường chống ồn, hộ lan cứng và hộ lan mềm.",
+        "Dải phân cách gồm giá long môn và biển báo hiệu đường bộ.",
+        "All"
+      ],
+      "correctAnswer": "Dải phân cách gồm loại cố định và loại di động."
+    },
+    {
+      "id": "3ded",
+      "questionText": "Người lái xe được hiểu như thế nào trong các khái niệm dưới đây?",
+      "options": [
+        "Là người điều khiển xe cơ giới.",
+        "Là người điều khiển xe thô sơ.",
+        "Là người điều khiển xe có súc vật kéo.",
+        "All"
+      ],
+      "correctAnswer": "Là người điều khiển xe cơ giới."
+    },
+    {
+      "id": "a907",
+      "questionText": "Đường mà trên đó phương tiện tham gia giao thông được các phương tiện giao thông đến từ các hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên là loại đường gì?",
+      "options": [
+        "Đường không ưu tiên",
+        "Đường tỉnh lộ.",
+        "Đường quốc lộ.",
+        "Đường ưu tiên."
+      ],
+      "correctAnswer": "Đường ưu tiên."
+    },
+    {
+      "id": "efa1",
+      "questionText": " Khái niệm “phương tiện giao thông cơ giới đường bộ” được hiểu như thế nào là đúng?",
+      "options": [
+        "Gồm xe ô tô; máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy; xe cơ giới dùng cho người khuyết tật và xe máy chuyên dùng.",
+        "Gồm ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.",
+        "A",
+        "B"
+      ],
+      "correctAnswer": "Gồm ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự."
+    },
+    {
+      "id": "85ee",
+      "questionText": "Khái niệm “phương tiện giao thông thô sơ đường bộ” được hiểu như thế nào là đúng?",
+      "options": [
+        "Gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự.",
+        "Gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe gắn máy, xe cơ giới dùng cho người khuyết tật và xe máy chuyên dùng.",
+        "Gồm xe ô tô, máy kéo, rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo.",
+        "All"
+      ],
+      "correctAnswer": "Gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự."
+    },
+    {
+      "id": "2146",
+      "questionText": " “Phương tiện tham gia giao thông đường bộ” gồm những loại nào?",
+      "options": [
+        "Phương tiện giao thông cơ giới đường bộ.",
+        "Phương tiện giao thông thô sơ đường bộ và xe máy chuyên dùng.",
+        "Cả ý 1 và ý 2.",
+        "All"
+      ],
+      "correctAnswer": "Cả ý 1 và ý 2."
+    },
+    {
+      "id": "3495",
+      "questionText": "“Người tham gia giao thông đường bộ” gồm những đối tượng nào?",
+      "options": [
+        "Người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ.",
+        "Người điều khiển, dẫn dắt súc vật; người đi bộ trên đường bộ.",
+        "Cả ý 1 và ý 2.",
+        "All"
+      ],
+      "correctAnswer": "Cả ý 1 và ý 2."
+    },
+    {
+      "id": "b321",
+      "questionText": "Khái niệm 'đường bộ' được hiểu như thế nào trong Luật Giao thông đường bộ Việt Nam?",
+      "options": [
+        "Đường dành cho người đi bộ và phương tiện giao thông cơ giới, không cơ giới.",
+        "Đường dành cho người đi bộ.",
+        "Đường chỉ dành cho phương tiện giao thông cơ giới."
+      ],
+      "correctAnswer": "Đường dành cho người đi bộ và phương tiện giao thông cơ giới, không cơ giới."
+    },
+    {
+      "id": "c123",
+      "questionText": "Theo Luật Giao thông đường bộ, người tham gia giao thông là ai?",
+      "options": [
+        "Người điều khiển phương tiện tham gia giao thông.",
+        "Người đi bộ.",
+        "Cả hai đáp án trên."
+      ],
+      "correctAnswer": "Cả hai đáp án trên."
+    },
+    {
+      "id": "d789",
+      "questionText": "Biển báo hiệu nào cấm người đi bộ đi qua?",
+      "options": [
+        "Biển báo hiệu số 202.",
+        "Biển báo hiệu số 204.",
+        "Biển báo hiệu số 206."
+      ],
+      "correctAnswer": "Biển báo hiệu số 206."
+    },
+    {
+      "id": "e456",
+      "questionText": "Biển nào báo hiệu sắp đến chỗ giao nhau nguy hiểm?",
+      "options": [
+        "Biển báo hiệu số 303.",
+        "Biển báo hiệu số 304.",
+        "Biển báo hiệu số 305."
+      ],
+      "correctAnswer": "Biển báo hiệu số 304."
+    },
+    {
+      "id": "f987",
+      "questionText": "Biển nào báo hiệu đường dành cho người đi bộ?",
+      "options": [
+        "Biển báo hiệu số 201.",
+        "Biển báo hiệu số 202.",
+        "Biển báo hiệu số 203."
+      ],
+      "correctAnswer": "Biển báo hiệu số 202."
+    },
+    {
+      "id": "g654",
+      "questionText": "Khi điều khiển xe chạy trên đường biết có người đi bộ qua đường, người lái xe phải làm gì?",
+      "options": [
+        "Giảm tốc độ, dừng lại để nhường đường cho người đi bộ qua đường.",
+        "Tăng tốc độ để nhanh chóng qua ngã tư, vòng xuyến.",
+        "Đi với tốc độ bình thường."
+      ],
+      "correctAnswer": "Giảm tốc độ, dừng lại để nhường đường cho người đi bộ qua đường."
+    },
+    {
+      "id": "h321",
+      "questionText": "Xe cơ giới tham gia giao thông gồm những loại nào?",
+      "options": [
+        "Xe mô tô, ô tô, xe máy chuyên dùng.",
+        "Xe đạp, xe máy chuyên dùng.",
+        "Xe đạp, xe ba gác."
+      ],
+      "correctAnswer": "Xe mô tô, ô tô, xe máy chuyên dùng."
+    },
+    {
+      "id": "i987",
+      "questionText": "Phương tiện giao thông tham gia giao thông gồm những loại nào?",
+      "options": [
+        "Phương tiện giao thông cơ giới đường bộ và không có đường bộ, phương tiện giao thông không cơ giới đường bộ.",
+        "Phương tiện giao thông cơ giới đường bộ.",
+        "Phương tiện giao thông không cơ giới đường bộ."
+      ],
+      "correctAnswer": "Phương tiện giao thông cơ giới đường bộ và không có đường bộ, phương tiện giao thông không cơ giới đường bộ."
+    },
+    {
+      "id": "k654",
+      "questionText": "Khi điều khiển xe chạy tới nơi đường giao nhau có báo hiệu người đi bộ đi qua phía trước, người lái xe phải làm gì?",
+      "options": [
+        "Dừng lại, nhường đường cho người đi bộ.",
+        "Tăng tốc để nhanh chóng qua đoạn đường này.",
+        "Đi với tốc độ bình thường."
+      ],
+      "correctAnswer": "Dừng lại, nhường đường cho người đi bộ."
+    }
+  ]
+}
